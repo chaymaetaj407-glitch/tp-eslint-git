@@ -24,7 +24,7 @@ Ce projet démontre l'utilisation d'ESLint pour maintenir la qualité du code Ja
 
 
 
-\## 📦 Installation
+\##  Installation
 
 ```bash
 
@@ -66,7 +66,7 @@ npx eslint index.js
 
 
 
-\## 🔧 Configuration ESLint
+\##  Configuration ESLint
 
 
 
@@ -86,7 +86,7 @@ Le projet utilise les règles suivantes :
 
 
 
-\## 🐕 Husky Pre-commit Hook
+\##  Husky Pre-commit Hook
 
 
 
@@ -94,7 +94,7 @@ Avant chaque commit, ESLint vérifie automatiquement le code. Si des erreurs son
 
 
 
-\## 🚀 GitHub Actions
+\##  GitHub Actions
 
 
 
@@ -102,7 +102,7 @@ Avant chaque commit, ESLint vérifie automatiquement le code. Si des erreurs son
 
 
 
-\## 👤 Auteur
+\##  Auteur
 
 
 
@@ -110,7 +110,7 @@ Projet réalisé dans le cadre d'un TP.
 
 
 
-\## 📅 Date
+\##  Date
 
 
 
