@@ -83,7 +83,7 @@ Le projet utilise les règles suivantes :
 \- Pas de `console.log` en production (warning)
 
 \- Pas de variables non utilisées
-## 📊 Résultats ESLint
+##  Résultats ESLint
 
 ### ❌ Avant correction
 
